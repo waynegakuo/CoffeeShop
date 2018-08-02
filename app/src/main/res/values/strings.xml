@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="contact_us">Contact us: +254 719 440022</string>
+    <string name="services">We serve with you with the best coffee in Kenya that
+        has been harvested with utmost precision and love</string>
+    <string name="web">www.mugscoffee.co.ke</string>
+    <string name="operations">Monday-Friday (8.00am to 9.00pm) \nSaturday-Sunday (10.00am to 11.00pm)</string>
+    <string name="location">25 Arcade Hospital, Mombasa-Kenya</string>
+</resources>
